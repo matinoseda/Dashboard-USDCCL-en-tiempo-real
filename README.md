@@ -20,4 +20,6 @@ Este dashboard grafica en tiempo real el valor del dólar CCL de varios Cedears 
 +  se creó una web app simple que contiene un gráfico interactivo con las librerías Dash y Plotly.
 +  se crearon 3 threads para que todo pouede funcionar simultáneamente.
 
+![](Panel%20Cedears.png)
+
 Este código se puede adaptar fácilmente para que muestre el tipo de cambio USDCCL de ADRs, bonos, letras del tesoro
